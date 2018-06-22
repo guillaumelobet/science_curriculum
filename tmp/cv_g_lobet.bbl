@@ -46,7 +46,7 @@
       \verb 10.12688/f1000research.13541.1
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.12688/f1000research.13541.1
+      \verb https://doi.org/10.12688/f1000research.13541.1
       \endverb
       \keyw{accepted}
       \warn{\item Name "Topp, C, and, Lobet, G" has too many commas: skipping name}
@@ -119,7 +119,7 @@
       \verb 10.7717/peerj.4836
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.7717/peerj.4836
+      \verb https://doi.org/10.7717/peerj.4836
       \endverb
       \keyw{accepted}
     \endentry
@@ -178,7 +178,7 @@
       \verb 10.1007/s11104-018-3595-8
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1007/s11104-018-3595-8
+      \verb https://doi.org/10.1007/s11104-018-3595-8
       \endverb
       \keyw{accepted}
     \endentry
@@ -298,7 +298,7 @@
       \verb 10.1101/312918
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1101/312918
+      \verb https://doi.org/10.1101/312918
       \endverb
       \keyw{preprint}
     \endentry
@@ -368,7 +368,7 @@
       \verb 10.1104/pp.17.01648
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1104/pp.17.01648
+      \verb https://doi.org/10.1104/pp.17.01648
       \endverb
       \keyw{accepted}
     \endentry
@@ -441,7 +441,7 @@
       \verb 10.1093/aob/mcx221
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1093/aob/mcx221
+      \verb https://doi.org/10.1093/aob/mcx221
       \endverb
       \keyw{accepted}
     \endentry
@@ -543,7 +543,7 @@
       \verb 10.1101/147314
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1101/147314
+      \verb https://doi.org/10.1101/147314
       \endverb
       \keyw{preprint}
     \endentry
@@ -568,7 +568,7 @@
       \field{title}{Alternative plants, why we need models to understand the complexity of plants}
       \field{year}{2017}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.5089900.v1
+      \verb https://doi.org/10.6084/m9.figshare.5089900.v1
       \endverb
       \keyw{invited}
     \endentry
@@ -817,7 +817,7 @@
       \field{title}{How to deal with the complexity of plants, a modelling vision}
       \field{year}{2016}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.4239140.v3
+      \verb https://doi.org/10.6084/m9.figshare.4239140.v3
       \endverb
       \keyw{spont}
     \endentry
@@ -842,7 +842,7 @@
       \field{title}{Open Science. A view from the Bench}
       \field{year}{2016}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.3020170
+      \verb https://doi.org/10.6084/m9.figshare.3020170
       \endverb
       \keyw{invited}
     \endentry
@@ -867,7 +867,7 @@
       \field{title}{plant-image-analysis.org, A platform referencing plant image analysis tools}
       \field{year}{2016}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.3826488
+      \verb https://doi.org/10.6084/m9.figshare.3826488
       \endverb
       \keyw{spont}
     \endentry
@@ -892,7 +892,7 @@
       \field{title}{Using structural models to validate and improve root image analysis pipelines}
       \field{year}{2016}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.4311848.v1
+      \verb https://doi.org/10.6084/m9.figshare.4311848.v1
       \endverb
       \keyw{spont}
     \endentry
@@ -1012,7 +1012,7 @@
       \verb 10.1007/s11104-015-2673-4
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1007/s11104-015-2673-4
+      \verb https://doi.org/10.1007/s11104-015-2673-4
       \endverb
       \keyw{accepted}
       \warn{\item Name "Pagès, L, and, Delaplace, P" has too many commas: skipping name}
@@ -1063,7 +1063,7 @@
       \field{title}{Introducing Root System Markup Language}
       \field{year}{2015}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.1379862
+      \verb https://doi.org/10.6084/m9.figshare.1379862
       \endverb
       \keyw{invited}
     \endentry
@@ -1088,7 +1088,7 @@
       \field{title}{Plant Image Analysis tools. Current trends and limitations}
       \field{year}{2015}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.1169928
+      \verb https://doi.org/10.6084/m9.figshare.1169928
       \endverb
       \keyw{invited}
     \endentry
@@ -1113,7 +1113,7 @@
       \field{title}{Science Valorisation}
       \field{year}{2015}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.1057995
+      \verb https://doi.org/10.6084/m9.figshare.1057995
       \endverb
       \keyw{invited}
     \endentry
@@ -1138,7 +1138,7 @@
       \field{title}{Science Valorisation}
       \field{year}{2015}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.1057995
+      \verb https://doi.org/10.6084/m9.figshare.1057995
       \endverb
       \keyw{invited}
     \endentry
@@ -1163,7 +1163,7 @@
       \field{title}{Structural Root Modelling}
       \field{year}{2015}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.1594792
+      \verb https://doi.org/10.6084/m9.figshare.1594792
       \endverb
       \keyw{invited}
     \endentry
@@ -1385,7 +1385,7 @@
       \verb 10.1007/s11104-013-1975-7
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1007/s11104-013-1975-7
+      \verb https://doi.org/10.1007/s11104-013-1975-7
       \endverb
       \keyw{accepted}
       \warn{\item Name "Bielders, CL, and, Lutts, S" has too many commas: skipping name}
@@ -1413,7 +1413,7 @@
       \verb 10.1016/j.ecolmodel.2013.11.025
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1016/j.ecolmodel.2013.11.025
+      \verb https://doi.org/10.1016/j.ecolmodel.2013.11.025
       \endverb
       \keyw{accepted}
       \warn{\item Name "Pagès, P, and, Draye, X" has too many commas: skipping name}
@@ -1439,7 +1439,7 @@
       \field{title}{Inflorescence development in tomato. Gene functions within a zigzag model.}
       \field{year}{2014}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.976039
+      \verb https://doi.org/10.6084/m9.figshare.976039
       \endverb
       \keyw{spont}
     \endentry
@@ -1489,7 +1489,7 @@
       \field{title}{Plant Image Analysis tools. Current trends and limitations}
       \field{year}{2014}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.1169928
+      \verb https://doi.org/10.6084/m9.figshare.1169928
       \endverb
       \keyw{spont}
     \endentry
@@ -1708,7 +1708,7 @@
       \field{title}{First steps towards an explicit modeling of aba production and translocation in relation with the water uptake dynamics}
       \field{year}{2013}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.713568
+      \verb https://doi.org/10.6084/m9.figshare.713568
       \endverb
       \keyw{spont}
     \endentry
@@ -1750,7 +1750,7 @@
       \field{title}{A Novel Image Analysis Toolbox Enabling Quantitative Analysis of Root System Architecture.}
       \field{year}{2012}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.95665
+      \verb https://doi.org/10.6084/m9.figshare.95665
       \endverb
       \keyw{invited}
     \endentry
@@ -1803,7 +1803,7 @@
       \field{title}{New insights on the role of root radial conductivity on the overall uptake dynamics}
       \field{year}{2011}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.95591
+      \verb https://doi.org/10.6084/m9.figshare.95591
       \endverb
       \keyw{invited}
     \endentry
@@ -1872,7 +1872,7 @@
       \verb 10.12688/f1000research.13541.1
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.12688/f1000research.13541.1
+      \verb https://doi.org/10.12688/f1000research.13541.1
       \endverb
       \keyw{accepted}
       \warn{\item Name "Topp, C, and, Lobet, G" has too many commas: skipping name}
@@ -1945,7 +1945,7 @@
       \verb 10.7717/peerj.4836
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.7717/peerj.4836
+      \verb https://doi.org/10.7717/peerj.4836
       \endverb
       \keyw{accepted}
     \endentry
@@ -2004,7 +2004,7 @@
       \verb 10.1007/s11104-018-3595-8
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1007/s11104-018-3595-8
+      \verb https://doi.org/10.1007/s11104-018-3595-8
       \endverb
       \keyw{accepted}
     \endentry
@@ -2124,7 +2124,7 @@
       \verb 10.1101/312918
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1101/312918
+      \verb https://doi.org/10.1101/312918
       \endverb
       \keyw{preprint}
     \endentry
@@ -2194,7 +2194,7 @@
       \verb 10.1104/pp.17.01648
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1104/pp.17.01648
+      \verb https://doi.org/10.1104/pp.17.01648
       \endverb
       \keyw{accepted}
     \endentry
@@ -2267,7 +2267,7 @@
       \verb 10.1093/aob/mcx221
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1093/aob/mcx221
+      \verb https://doi.org/10.1093/aob/mcx221
       \endverb
       \keyw{accepted}
     \endentry
@@ -2369,7 +2369,7 @@
       \verb 10.1101/147314
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1101/147314
+      \verb https://doi.org/10.1101/147314
       \endverb
       \keyw{preprint}
     \endentry
@@ -2394,7 +2394,7 @@
       \field{title}{Alternative plants, why we need models to understand the complexity of plants}
       \field{year}{2017}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.5089900.v1
+      \verb https://doi.org/10.6084/m9.figshare.5089900.v1
       \endverb
       \keyw{invited}
     \endentry
@@ -2643,7 +2643,7 @@
       \field{title}{How to deal with the complexity of plants, a modelling vision}
       \field{year}{2016}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.4239140.v3
+      \verb https://doi.org/10.6084/m9.figshare.4239140.v3
       \endverb
       \keyw{spont}
     \endentry
@@ -2668,7 +2668,7 @@
       \field{title}{Open Science. A view from the Bench}
       \field{year}{2016}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.3020170
+      \verb https://doi.org/10.6084/m9.figshare.3020170
       \endverb
       \keyw{invited}
     \endentry
@@ -2693,7 +2693,7 @@
       \field{title}{plant-image-analysis.org, A platform referencing plant image analysis tools}
       \field{year}{2016}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.3826488
+      \verb https://doi.org/10.6084/m9.figshare.3826488
       \endverb
       \keyw{spont}
     \endentry
@@ -2718,7 +2718,7 @@
       \field{title}{Using structural models to validate and improve root image analysis pipelines}
       \field{year}{2016}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.4311848.v1
+      \verb https://doi.org/10.6084/m9.figshare.4311848.v1
       \endverb
       \keyw{spont}
     \endentry
@@ -2838,7 +2838,7 @@
       \verb 10.1007/s11104-015-2673-4
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1007/s11104-015-2673-4
+      \verb https://doi.org/10.1007/s11104-015-2673-4
       \endverb
       \keyw{accepted}
       \warn{\item Name "Pagès, L, and, Delaplace, P" has too many commas: skipping name}
@@ -2889,7 +2889,7 @@
       \field{title}{Introducing Root System Markup Language}
       \field{year}{2015}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.1379862
+      \verb https://doi.org/10.6084/m9.figshare.1379862
       \endverb
       \keyw{invited}
     \endentry
@@ -2914,7 +2914,7 @@
       \field{title}{Plant Image Analysis tools. Current trends and limitations}
       \field{year}{2015}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.1169928
+      \verb https://doi.org/10.6084/m9.figshare.1169928
       \endverb
       \keyw{invited}
     \endentry
@@ -2939,7 +2939,7 @@
       \field{title}{Science Valorisation}
       \field{year}{2015}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.1057995
+      \verb https://doi.org/10.6084/m9.figshare.1057995
       \endverb
       \keyw{invited}
     \endentry
@@ -2964,7 +2964,7 @@
       \field{title}{Science Valorisation}
       \field{year}{2015}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.1057995
+      \verb https://doi.org/10.6084/m9.figshare.1057995
       \endverb
       \keyw{invited}
     \endentry
@@ -2989,7 +2989,7 @@
       \field{title}{Structural Root Modelling}
       \field{year}{2015}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.1594792
+      \verb https://doi.org/10.6084/m9.figshare.1594792
       \endverb
       \keyw{invited}
     \endentry
@@ -3211,7 +3211,7 @@
       \verb 10.1007/s11104-013-1975-7
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1007/s11104-013-1975-7
+      \verb https://doi.org/10.1007/s11104-013-1975-7
       \endverb
       \keyw{accepted}
       \warn{\item Name "Bielders, CL, and, Lutts, S" has too many commas: skipping name}
@@ -3239,7 +3239,7 @@
       \verb 10.1016/j.ecolmodel.2013.11.025
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1016/j.ecolmodel.2013.11.025
+      \verb https://doi.org/10.1016/j.ecolmodel.2013.11.025
       \endverb
       \keyw{accepted}
       \warn{\item Name "Pagès, P, and, Draye, X" has too many commas: skipping name}
@@ -3265,7 +3265,7 @@
       \field{title}{Inflorescence development in tomato. Gene functions within a zigzag model.}
       \field{year}{2014}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.976039
+      \verb https://doi.org/10.6084/m9.figshare.976039
       \endverb
       \keyw{spont}
     \endentry
@@ -3315,7 +3315,7 @@
       \field{title}{Plant Image Analysis tools. Current trends and limitations}
       \field{year}{2014}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.1169928
+      \verb https://doi.org/10.6084/m9.figshare.1169928
       \endverb
       \keyw{spont}
     \endentry
@@ -3534,7 +3534,7 @@
       \field{title}{First steps towards an explicit modeling of aba production and translocation in relation with the water uptake dynamics}
       \field{year}{2013}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.713568
+      \verb https://doi.org/10.6084/m9.figshare.713568
       \endverb
       \keyw{spont}
     \endentry
@@ -3576,7 +3576,7 @@
       \field{title}{A Novel Image Analysis Toolbox Enabling Quantitative Analysis of Root System Architecture.}
       \field{year}{2012}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.95665
+      \verb https://doi.org/10.6084/m9.figshare.95665
       \endverb
       \keyw{invited}
     \endentry
@@ -3629,7 +3629,7 @@
       \field{title}{New insights on the role of root radial conductivity on the overall uptake dynamics}
       \field{year}{2011}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.95591
+      \verb https://doi.org/10.6084/m9.figshare.95591
       \endverb
       \keyw{invited}
     \endentry
@@ -3698,7 +3698,7 @@
       \verb 10.12688/f1000research.13541.1
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.12688/f1000research.13541.1
+      \verb https://doi.org/10.12688/f1000research.13541.1
       \endverb
       \keyw{accepted}
       \warn{\item Name "Topp, C, and, Lobet, G" has too many commas: skipping name}
@@ -3771,7 +3771,7 @@
       \verb 10.7717/peerj.4836
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.7717/peerj.4836
+      \verb https://doi.org/10.7717/peerj.4836
       \endverb
       \keyw{accepted}
     \endentry
@@ -3830,7 +3830,7 @@
       \verb 10.1007/s11104-018-3595-8
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1007/s11104-018-3595-8
+      \verb https://doi.org/10.1007/s11104-018-3595-8
       \endverb
       \keyw{accepted}
     \endentry
@@ -3950,7 +3950,7 @@
       \verb 10.1101/312918
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1101/312918
+      \verb https://doi.org/10.1101/312918
       \endverb
       \keyw{preprint}
     \endentry
@@ -4020,7 +4020,7 @@
       \verb 10.1104/pp.17.01648
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1104/pp.17.01648
+      \verb https://doi.org/10.1104/pp.17.01648
       \endverb
       \keyw{accepted}
     \endentry
@@ -4093,7 +4093,7 @@
       \verb 10.1093/aob/mcx221
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1093/aob/mcx221
+      \verb https://doi.org/10.1093/aob/mcx221
       \endverb
       \keyw{accepted}
     \endentry
@@ -4195,7 +4195,7 @@
       \verb 10.1101/147314
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1101/147314
+      \verb https://doi.org/10.1101/147314
       \endverb
       \keyw{preprint}
     \endentry
@@ -4220,7 +4220,7 @@
       \field{title}{Alternative plants, why we need models to understand the complexity of plants}
       \field{year}{2017}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.5089900.v1
+      \verb https://doi.org/10.6084/m9.figshare.5089900.v1
       \endverb
       \keyw{invited}
     \endentry
@@ -4469,7 +4469,7 @@
       \field{title}{How to deal with the complexity of plants, a modelling vision}
       \field{year}{2016}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.4239140.v3
+      \verb https://doi.org/10.6084/m9.figshare.4239140.v3
       \endverb
       \keyw{spont}
     \endentry
@@ -4494,7 +4494,7 @@
       \field{title}{Open Science. A view from the Bench}
       \field{year}{2016}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.3020170
+      \verb https://doi.org/10.6084/m9.figshare.3020170
       \endverb
       \keyw{invited}
     \endentry
@@ -4519,7 +4519,7 @@
       \field{title}{plant-image-analysis.org, A platform referencing plant image analysis tools}
       \field{year}{2016}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.3826488
+      \verb https://doi.org/10.6084/m9.figshare.3826488
       \endverb
       \keyw{spont}
     \endentry
@@ -4544,7 +4544,7 @@
       \field{title}{Using structural models to validate and improve root image analysis pipelines}
       \field{year}{2016}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.4311848.v1
+      \verb https://doi.org/10.6084/m9.figshare.4311848.v1
       \endverb
       \keyw{spont}
     \endentry
@@ -4664,7 +4664,7 @@
       \verb 10.1007/s11104-015-2673-4
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1007/s11104-015-2673-4
+      \verb https://doi.org/10.1007/s11104-015-2673-4
       \endverb
       \keyw{accepted}
       \warn{\item Name "Pagès, L, and, Delaplace, P" has too many commas: skipping name}
@@ -4715,7 +4715,7 @@
       \field{title}{Introducing Root System Markup Language}
       \field{year}{2015}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.1379862
+      \verb https://doi.org/10.6084/m9.figshare.1379862
       \endverb
       \keyw{invited}
     \endentry
@@ -4740,7 +4740,7 @@
       \field{title}{Plant Image Analysis tools. Current trends and limitations}
       \field{year}{2015}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.1169928
+      \verb https://doi.org/10.6084/m9.figshare.1169928
       \endverb
       \keyw{invited}
     \endentry
@@ -4765,7 +4765,7 @@
       \field{title}{Science Valorisation}
       \field{year}{2015}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.1057995
+      \verb https://doi.org/10.6084/m9.figshare.1057995
       \endverb
       \keyw{invited}
     \endentry
@@ -4790,7 +4790,7 @@
       \field{title}{Science Valorisation}
       \field{year}{2015}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.1057995
+      \verb https://doi.org/10.6084/m9.figshare.1057995
       \endverb
       \keyw{invited}
     \endentry
@@ -4815,7 +4815,7 @@
       \field{title}{Structural Root Modelling}
       \field{year}{2015}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.1594792
+      \verb https://doi.org/10.6084/m9.figshare.1594792
       \endverb
       \keyw{invited}
     \endentry
@@ -5037,7 +5037,7 @@
       \verb 10.1007/s11104-013-1975-7
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1007/s11104-013-1975-7
+      \verb https://doi.org/10.1007/s11104-013-1975-7
       \endverb
       \keyw{accepted}
       \warn{\item Name "Bielders, CL, and, Lutts, S" has too many commas: skipping name}
@@ -5065,7 +5065,7 @@
       \verb 10.1016/j.ecolmodel.2013.11.025
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1016/j.ecolmodel.2013.11.025
+      \verb https://doi.org/10.1016/j.ecolmodel.2013.11.025
       \endverb
       \keyw{accepted}
       \warn{\item Name "Pagès, P, and, Draye, X" has too many commas: skipping name}
@@ -5091,7 +5091,7 @@
       \field{title}{Inflorescence development in tomato. Gene functions within a zigzag model.}
       \field{year}{2014}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.976039
+      \verb https://doi.org/10.6084/m9.figshare.976039
       \endverb
       \keyw{spont}
     \endentry
@@ -5141,7 +5141,7 @@
       \field{title}{Plant Image Analysis tools. Current trends and limitations}
       \field{year}{2014}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.1169928
+      \verb https://doi.org/10.6084/m9.figshare.1169928
       \endverb
       \keyw{spont}
     \endentry
@@ -5360,7 +5360,7 @@
       \field{title}{First steps towards an explicit modeling of aba production and translocation in relation with the water uptake dynamics}
       \field{year}{2013}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.713568
+      \verb https://doi.org/10.6084/m9.figshare.713568
       \endverb
       \keyw{spont}
     \endentry
@@ -5402,7 +5402,7 @@
       \field{title}{A Novel Image Analysis Toolbox Enabling Quantitative Analysis of Root System Architecture.}
       \field{year}{2012}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.95665
+      \verb https://doi.org/10.6084/m9.figshare.95665
       \endverb
       \keyw{invited}
     \endentry
@@ -5455,7 +5455,7 @@
       \field{title}{New insights on the role of root radial conductivity on the overall uptake dynamics}
       \field{year}{2011}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.95591
+      \verb https://doi.org/10.6084/m9.figshare.95591
       \endverb
       \keyw{invited}
     \endentry
@@ -5524,7 +5524,7 @@
       \verb 10.12688/f1000research.13541.1
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.12688/f1000research.13541.1
+      \verb https://doi.org/10.12688/f1000research.13541.1
       \endverb
       \keyw{accepted}
       \warn{\item Name "Topp, C, and, Lobet, G" has too many commas: skipping name}
@@ -5597,7 +5597,7 @@
       \verb 10.7717/peerj.4836
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.7717/peerj.4836
+      \verb https://doi.org/10.7717/peerj.4836
       \endverb
       \keyw{accepted}
     \endentry
@@ -5656,7 +5656,7 @@
       \verb 10.1007/s11104-018-3595-8
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1007/s11104-018-3595-8
+      \verb https://doi.org/10.1007/s11104-018-3595-8
       \endverb
       \keyw{accepted}
     \endentry
@@ -5776,7 +5776,7 @@
       \verb 10.1101/312918
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1101/312918
+      \verb https://doi.org/10.1101/312918
       \endverb
       \keyw{preprint}
     \endentry
@@ -5846,7 +5846,7 @@
       \verb 10.1104/pp.17.01648
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1104/pp.17.01648
+      \verb https://doi.org/10.1104/pp.17.01648
       \endverb
       \keyw{accepted}
     \endentry
@@ -5919,7 +5919,7 @@
       \verb 10.1093/aob/mcx221
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1093/aob/mcx221
+      \verb https://doi.org/10.1093/aob/mcx221
       \endverb
       \keyw{accepted}
     \endentry
@@ -6021,7 +6021,7 @@
       \verb 10.1101/147314
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1101/147314
+      \verb https://doi.org/10.1101/147314
       \endverb
       \keyw{preprint}
     \endentry
@@ -6046,7 +6046,7 @@
       \field{title}{Alternative plants, why we need models to understand the complexity of plants}
       \field{year}{2017}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.5089900.v1
+      \verb https://doi.org/10.6084/m9.figshare.5089900.v1
       \endverb
       \keyw{invited}
     \endentry
@@ -6295,7 +6295,7 @@
       \field{title}{How to deal with the complexity of plants, a modelling vision}
       \field{year}{2016}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.4239140.v3
+      \verb https://doi.org/10.6084/m9.figshare.4239140.v3
       \endverb
       \keyw{spont}
     \endentry
@@ -6320,7 +6320,7 @@
       \field{title}{Open Science. A view from the Bench}
       \field{year}{2016}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.3020170
+      \verb https://doi.org/10.6084/m9.figshare.3020170
       \endverb
       \keyw{invited}
     \endentry
@@ -6345,7 +6345,7 @@
       \field{title}{plant-image-analysis.org, A platform referencing plant image analysis tools}
       \field{year}{2016}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.3826488
+      \verb https://doi.org/10.6084/m9.figshare.3826488
       \endverb
       \keyw{spont}
     \endentry
@@ -6370,7 +6370,7 @@
       \field{title}{Using structural models to validate and improve root image analysis pipelines}
       \field{year}{2016}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.4311848.v1
+      \verb https://doi.org/10.6084/m9.figshare.4311848.v1
       \endverb
       \keyw{spont}
     \endentry
@@ -6490,7 +6490,7 @@
       \verb 10.1007/s11104-015-2673-4
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1007/s11104-015-2673-4
+      \verb https://doi.org/10.1007/s11104-015-2673-4
       \endverb
       \keyw{accepted}
       \warn{\item Name "Pagès, L, and, Delaplace, P" has too many commas: skipping name}
@@ -6541,7 +6541,7 @@
       \field{title}{Introducing Root System Markup Language}
       \field{year}{2015}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.1379862
+      \verb https://doi.org/10.6084/m9.figshare.1379862
       \endverb
       \keyw{invited}
     \endentry
@@ -6566,7 +6566,7 @@
       \field{title}{Plant Image Analysis tools. Current trends and limitations}
       \field{year}{2015}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.1169928
+      \verb https://doi.org/10.6084/m9.figshare.1169928
       \endverb
       \keyw{invited}
     \endentry
@@ -6591,7 +6591,7 @@
       \field{title}{Science Valorisation}
       \field{year}{2015}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.1057995
+      \verb https://doi.org/10.6084/m9.figshare.1057995
       \endverb
       \keyw{invited}
     \endentry
@@ -6616,7 +6616,7 @@
       \field{title}{Science Valorisation}
       \field{year}{2015}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.1057995
+      \verb https://doi.org/10.6084/m9.figshare.1057995
       \endverb
       \keyw{invited}
     \endentry
@@ -6641,7 +6641,7 @@
       \field{title}{Structural Root Modelling}
       \field{year}{2015}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.1594792
+      \verb https://doi.org/10.6084/m9.figshare.1594792
       \endverb
       \keyw{invited}
     \endentry
@@ -6863,7 +6863,7 @@
       \verb 10.1007/s11104-013-1975-7
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1007/s11104-013-1975-7
+      \verb https://doi.org/10.1007/s11104-013-1975-7
       \endverb
       \keyw{accepted}
       \warn{\item Name "Bielders, CL, and, Lutts, S" has too many commas: skipping name}
@@ -6891,7 +6891,7 @@
       \verb 10.1016/j.ecolmodel.2013.11.025
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1016/j.ecolmodel.2013.11.025
+      \verb https://doi.org/10.1016/j.ecolmodel.2013.11.025
       \endverb
       \keyw{accepted}
       \warn{\item Name "Pagès, P, and, Draye, X" has too many commas: skipping name}
@@ -6917,7 +6917,7 @@
       \field{title}{Inflorescence development in tomato. Gene functions within a zigzag model.}
       \field{year}{2014}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.976039
+      \verb https://doi.org/10.6084/m9.figshare.976039
       \endverb
       \keyw{spont}
     \endentry
@@ -6967,7 +6967,7 @@
       \field{title}{Plant Image Analysis tools. Current trends and limitations}
       \field{year}{2014}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.1169928
+      \verb https://doi.org/10.6084/m9.figshare.1169928
       \endverb
       \keyw{spont}
     \endentry
@@ -7186,7 +7186,7 @@
       \field{title}{First steps towards an explicit modeling of aba production and translocation in relation with the water uptake dynamics}
       \field{year}{2013}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.713568
+      \verb https://doi.org/10.6084/m9.figshare.713568
       \endverb
       \keyw{spont}
     \endentry
@@ -7228,7 +7228,7 @@
       \field{title}{A Novel Image Analysis Toolbox Enabling Quantitative Analysis of Root System Architecture.}
       \field{year}{2012}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.95665
+      \verb https://doi.org/10.6084/m9.figshare.95665
       \endverb
       \keyw{invited}
     \endentry
@@ -7281,7 +7281,7 @@
       \field{title}{New insights on the role of root radial conductivity on the overall uptake dynamics}
       \field{year}{2011}
       \verb{url}
-      \verb http://dx.doi.org/10.6084/m9.figshare.95591
+      \verb https://doi.org/10.6084/m9.figshare.95591
       \endverb
       \keyw{invited}
     \endentry

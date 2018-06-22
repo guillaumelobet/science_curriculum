@@ -61,7 +61,7 @@ for(p in pubs){
       if(length(p$pmid) > 0){
         bib <-paste0(bib, "\t url = {http://www.ncbi.nlm.nih.gov/pubmed/",p$pmid,"},\n")
       }else{
-        bib <-paste0(bib, "\t url = {http://dx.doi.org/",p$doi,"},\n")
+        bib <-paste0(bib, "\t url = {https://doi.org/",p$doi,"},\n")
       }
       if(length(p$quote) > 0){
         bib <-paste0(bib, "\t quote = {",p$quote,"},\n")
@@ -131,7 +131,7 @@ for(p in pubs){
         if(length(p$pmid) > 0){
           bib <-paste0(bib, "\t url = {http://www.ncbi.nlm.nih.gov/pubmed/",p$pmid,"},\n")
         }else{
-          bib <-paste0(bib, "\t url = {http://dx.doi.org/",p$doi,"},\n")
+          bib <-paste0(bib, "\t url = {https://doi.org/",p$doi,"},\n")
         }
         if(length(p$quote) > 0){
           bib <-paste0(bib, "\t quote = {",p$quote,"},\n")
